@@ -1,2 +1,6 @@
-# web-335
-Repository for WEB 335 Node.js assignments.
+# WEB 335 Node.js
+
+## Contributors
+
+- Professor Richard Krasso
+- Leslie Espino
