@@ -1,0 +1,21 @@
+{
+  "customerId": "C1001",
+  "firstName": "Leslie",
+  "lastName": "Espino",
+  "email": "leslie.espino@email.com",
+  "phoneNumber": "815-555-1234",
+  "burgers": [
+    {
+      "burgerId": "B101",
+      "burgerName": "Bacon Cheeseburger",
+      "price": 9.99,
+      "category": "Beef"
+    },
+    {
+      "burgerId": "B102",
+      "burgerName": "Mushroom Swiss Burger",
+      "price": 10.49,
+      "category": "Beef"
+    }
+  ]
+}
