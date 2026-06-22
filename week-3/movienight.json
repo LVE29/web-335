@@ -1,0 +1,42 @@
+{
+  "viewer": {
+    "_id": "V1001",
+    "firstName": "Leslie",
+    "lastName": "Espino",
+    "movies": [
+      {
+        "_id": "M2001",
+        "movieName": "School of Rock",
+        "genre": "Comedy",
+        "rating": {
+          "_id": "R3001",
+          "ratingScore": 5,
+          "viewerId": "V1001",
+          "movieId": "M2001"
+        }
+      },
+      {
+        "_id": "M2002",
+        "movieName": "Shrek",
+        "genre": "Animation",
+        "rating": {
+          "_id": "R3002",
+          "ratingScore": 5,
+          "viewerId": "V1001",
+          "movieId": "M2002"
+        }
+      },
+      {
+        "_id": "M2003",
+        "movieName": "Nacho Libre",
+        "genre": "Comedy",
+        "rating": {
+          "_id": "R3003",
+          "ratingScore": 4,
+          "viewerId": "V1001",
+          "movieId": "M2003"
+        }
+      }
+    ]
+  }
+}
