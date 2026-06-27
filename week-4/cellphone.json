@@ -1,0 +1,28 @@
+{
+  "user": {
+    "_id": "u1001",
+    "firstName": "Leslie",
+    "lastName": "Espino",
+    "devices": [
+      {
+        "_id": "d2001",
+        "deviceName": "Samsung Galaxy S22",
+        "deviceType": "Smartphone",
+        "charger_id": "c3001"
+      },
+      {
+        "_id": "d2002",
+        "deviceName": "JBL Live 660NC",
+        "deviceType": "Wireless Headphones",
+        "charger_id": "c3001"
+      }
+    ]
+  },
+  "chargers": [
+    {
+      "_id": "c3001",
+      "chargerType": "USB-C",
+      "voltage": "5V"
+    }
+  ]
+}
